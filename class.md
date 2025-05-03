@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Osarumwense Nathan Monday  
+- Certification: Meta Frontend Developer Certificate 
 
 ## Instructions
 Please replace the placeholders with your details:
